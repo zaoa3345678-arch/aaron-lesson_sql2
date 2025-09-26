@@ -32,3 +32,5 @@ create a new README.md file, ctrl + S
 . git reset --hard [version.number]
 . git diff [version.number] -- [filename]
 . git checkout [version.num] -- [filename]
+
+# DB Browser for SQLite
