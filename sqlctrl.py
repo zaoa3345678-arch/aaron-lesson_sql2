@@ -6,4 +6,4 @@ cursor.execute('SELECT * FROM product_info;')
 records = cursor.fetchall()
 print (records)
 
-print ('hello world')
+print ('hello world 3.14')
